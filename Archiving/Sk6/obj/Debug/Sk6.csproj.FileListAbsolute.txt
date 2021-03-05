@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Sk6\Sk6\bin\Debug\Sk6.exe.config
+C:\Users\USER\source\repos\Sk6\Sk6\bin\Debug\Sk6.exe
+C:\Users\USER\source\repos\Sk6\Sk6\bin\Debug\Sk6.pdb
+C:\Users\USER\source\repos\Sk6\Sk6\obj\Debug\Sk6.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Sk6\Sk6\obj\Debug\Sk6.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Sk6\Sk6\obj\Debug\Sk6.exe
+C:\Users\USER\source\repos\Sk6\Sk6\obj\Debug\Sk6.pdb
+C:\Users\USER\Desktop\Sk6 Работа с файлами\Sk6\bin\Debug\Sk6.exe.config
+C:\Users\USER\Desktop\Sk6 Работа с файлами\Sk6\bin\Debug\Sk6.exe
+C:\Users\USER\Desktop\Sk6 Работа с файлами\Sk6\bin\Debug\Sk6.pdb
+C:\Users\USER\Desktop\Sk6 Работа с файлами\Sk6\obj\Debug\Sk6.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Sk6 Работа с файлами\Sk6\obj\Debug\Sk6.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Sk6 Работа с файлами\Sk6\obj\Debug\Sk6.exe
+C:\Users\USER\Desktop\Sk6 Работа с файлами\Sk6\obj\Debug\Sk6.pdb
